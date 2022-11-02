@@ -1,0 +1,6 @@
+locations
+West Europe
+Austria
+Belgium
+France
+Germany

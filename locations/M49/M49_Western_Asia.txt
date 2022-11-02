@@ -1,0 +1,20 @@
+locations
+Western Asia
+Armenia
+Azerbaijan
+Bahrain
+Cyprus
+Georgia
+Iraq
+Israel
+Jordan
+Kuwait
+Lebanon
+Oman
+Qatar
+Saudi Arabia
+State of Palestine
+Syrian Arab Republic
+Turkey
+United Arab Emirates
+Yemen

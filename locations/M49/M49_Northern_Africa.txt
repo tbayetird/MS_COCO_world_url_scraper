@@ -1,0 +1,9 @@
+locations
+Northern Africa
+Algeria
+Egypt
+Libya
+Morocco
+Sudan
+Tunisia
+Western Sahara

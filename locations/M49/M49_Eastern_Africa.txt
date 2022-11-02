@@ -1,0 +1,24 @@
+locations
+Eastern Africa
+British Indian Ocean Territory
+Burundi
+Comoros
+Djibouti
+Eritrea
+Ethiopia
+French Southern Territories
+Kenya
+Madagascar
+Malawi
+Mauritius
+Mayotte
+Mozambique
+Reunion
+Rwanda
+Seychelles
+Somalia
+South Sudan
+Uganda
+United Republic of Tanzania
+Zambia
+Zimbabwe

@@ -7,9 +7,9 @@ This tool is used to scrape urls to gather MS COCO-style images, through the Fli
 All dependencies are found in the spec-file.txt
 You can automatize installation thanks to conda, using :
 
-'''
+`
 conda create --name scraper --file spec-file.txt
-'''
+`
 
 ## Quick start
 

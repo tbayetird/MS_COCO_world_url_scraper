@@ -1,0 +1,11 @@
+locations
+Southern Asia
+Afghanistan
+Bangladesh
+Bhutan
+India
+Iran
+Maldives
+Nepal
+Pakistan
+Sri Lanka

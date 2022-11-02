@@ -1,0 +1,41 @@
+scenes
+office
+restaurant
+kitchen
+living room
+bathroom
+library
+church
+factory
+campus
+bedroom
+child's room
+dining room
+auditorium
+shop
+home
+hotel
+classroom
+cafeteria
+hospital room
+food court
+street
+park
+beach
+river
+village
+valley
+market
+harbor
+yard
+parking lot
+lighthouse
+railway
+playground
+swimming pool
+forest
+gas station
+garden
+farm
+mountain
+plaza

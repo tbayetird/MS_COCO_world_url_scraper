@@ -1,0 +1,6 @@
+scenes
+office
+restaurant
+kitchen
+living room
+bathroom
