@@ -17,9 +17,9 @@ First, you need to modify the KEY and SECRET lines from the configs/config_M49_t
 
 Next, just run the run_M49_socket.py :
 
-'''
+`
 python run_M49_socket.py
-'''
+`
 
 The scraper will start an internal server and run the config_test configuration
 
@@ -29,14 +29,15 @@ To run a different configuration, modify the line 9 from the run_M49_server.py s
 
 To switch from config_test to config_M49_test, change the following line :
 
-'''
+`
 from configs import config_test as config_M49
-'''
+`
+
 in :
 
-'''
+`
 from configs import config_M49_test as config_M49
-'''
+`
 
 Do not forget to add you KEY and SECRET to the configuration
 
